@@ -1,2 +1,4 @@
 <?php
-echo"Latihan Git";
+echo "Latihan Git";
+$hari = "Rabu";
+echo $hari;
